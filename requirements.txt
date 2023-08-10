@@ -1,0 +1,5 @@
+requests
+tk-tools
+Pillow
+openai
+python-dotenv
